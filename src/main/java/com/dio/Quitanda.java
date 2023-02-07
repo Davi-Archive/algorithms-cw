@@ -19,7 +19,7 @@ public class Quitanda {
             novoValor = valorCalculado;
         }
 
-        System.out.println(valorCalculado);
+        System.out.println(novoValor);
     }
 
     private static Double calcularMorango(int kilosMorangos) {
